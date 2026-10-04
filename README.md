@@ -2,7 +2,7 @@
 
 <p>
   Co-founder of <b>Addisuna Coffee Co.</b> I grew up a shepherd in Ethiopia, came to the
-  U.S. at eleven, and graduated from the University of Notre Dame. I'm now at IU Indianapolis
+  U.S. at eleven, and graduated from the University of Notre Dame(class of 26'). I'm now at IU Indianapolis
   (class of '27), where I run for the Jaguars. Addisuna exists so that
   kids who start where I started get the education that changed my life.
 </p>
