@@ -2,7 +2,8 @@
 
 <p>
   Co-founder of <b>Addisuna Coffee Co.</b> I grew up a shepherd in Ethiopia, came to the
-  U.S. at eleven, and graduated from the University of Notre Dame. Addisuna exists so that
+  U.S. at eleven, and graduated from the University of Notre Dame. I'm now at IU Indianapolis
+  (class of '27), where I run for the Jaguars. Addisuna exists so that
   kids who start where I started get the education that changed my life.
 </p>
 
@@ -93,7 +94,8 @@ every change ships through a branch and a pull request.
 <td width="120" valign="top"><img src="https://raw.githubusercontent.com/izaiahsteury/izaiahsteury/main/icons/running.svg" width="100" alt="Running icon"></td>
 <td valign="top">
 
-Distance runner for **Notre Dame** cross country and track & field.
+Distance runner for the **IU Indianapolis Jaguars** (class of '27), after running cross
+country and track & field for **Notre Dame**.
 
 **[Results on World Athletics →](https://worldathletics.org/athletes/united-states/izaiah-steury-14962077)**
 
