@@ -29,7 +29,7 @@ Two flagship roasts launched in March 2026: **Sunbloom**, a medium roast, and **
 a light roast. The beans come from Ethiopia and are roasted locally in partnership with
 Quad Coffee Lab.
 
-In Ethiopia, coffee is community: walk into any Ethiopian home and there will be a pot on.
+In Ethiopia, coffee is community: walk into any Ethiopian home and there will be a jebena sitting on the fire.
 Addisuna turns that tradition into tuition.
 
 `Founder` · `Sourcing` · `Brand` · `Shopify`
